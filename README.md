@@ -18,7 +18,7 @@ To Get started with this project, follow these steps:
  1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/Chaintech-Network/Dynamic_App_Icon_With_Animation_ios_org
+    git clone https://github.com/Chaintech-Network/Dynamic_App_Icon_With_Animation_ios
     ```
 
 2. **Open the project** in Xcode.
